@@ -1,0 +1,36 @@
+/*************\
+	LAYOUT
+\*************/
+
+$mobile-width: 375px;
+$desktop-width: 1440px;
+
+
+/*************\
+	COLORS
+\*************/
+
+// PRIMARY
+
+$red: hsl(0, 78%, 62%);
+$cyan: hsl(180, 62%, 55%);
+$orange: hsl(34, 97%, 64%);
+$blue: hsl(212, 86%, 64%);
+
+// NEUTRAL
+$dark-blue: hsl(234, 12%, 34%);
+$grayish-blue: hsl(229, 6%, 66%);
+
+/*************\
+  TYPOGRAPHY
+\*************/
+
+// BODY COPY
+$font-size: 15px;
+
+// FONTS
+$font-family: "Poppins", sans-serif;
+
+$weight-thin: 200;
+$weight-regular: 400;
+$weight-bold: 600;

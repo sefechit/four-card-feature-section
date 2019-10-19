@@ -1,0 +1,25 @@
+{
+  "name": "four-card-feature-section",
+  "version": "1.0.0",
+  "description": "Four Card Feature Section Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mectos/four-card-feature-section.git"
+  },
+  "author": "mectos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mectos/four-card-feature-section/issues"
+  },
+  "homepage": "https://github.com/mectos/four-card-feature-section#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "node-sass": "^4.12.0"
+  }
+}
