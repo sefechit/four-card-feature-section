@@ -2,3 +2,43 @@ html {
 	font-size: $font-size;
 	font-family: $font-family;
 }
+
+.thin {
+	font-weight: $weight-thin;
+}
+
+.regular {
+	font-weight: $weight-regular;
+}
+
+.bold {
+	font-weight: $weight-bold;
+}
+
+.dark-blue {
+	color: $dark-blue;
+}
+
+.grayish-blue {
+	color: $grayish-blue;
+}
+
+.font-large {
+	font-size: 1.35rem;
+}
+
+.font-medium {
+	font-size: 1.15rem;
+}
+
+.font-small {
+	font-size: 0.95rem;
+}
+
+.font-very-small {
+	font-size: 0.75rem;
+}
+
+.attribution {
+	font-size: 0.55rem;
+}

@@ -1,0 +1,35 @@
+h1 span {
+	letter-spacing: 1.2px;
+}
+
+.card {
+	border-radius: 4px;
+}
+
+.red {
+	@include card-border($red);
+}
+
+.cyan {
+	@include card-border($cyan);
+}
+
+.orange {
+	@include card-border($orange);
+}
+
+.blue {
+	@include card-border($blue);
+}
+
+.attribution a {
+	color: $grayish-blue;
+}
+
+header > *, .card {
+	line-height: 2rem;
+}
+
+.card {
+	box-shadow: 0 3px 6px 5px lightgrey;
+}
